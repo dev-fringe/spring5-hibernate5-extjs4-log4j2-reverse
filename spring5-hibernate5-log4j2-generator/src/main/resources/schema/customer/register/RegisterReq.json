@@ -1,0 +1,66 @@
+{
+  "attributes": [
+    {
+      "customerOption": {
+        "id": 0
+      },
+      "customerOptionValue": {
+        "id": 0
+      },
+      "id": 0,
+      "textValue": "string"
+    }
+  ],
+  "billing": {
+    "address": "string",
+    "billingAddress": true,
+    "bilstateOther": "string",
+    "city": "string",
+    "company": "string",
+    "country": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "latitude": "string",
+    "longitude": "string",
+    "phone": "string",
+    "postalCode": "string",
+    "stateProvince": "string",
+    "zone": "string"
+  },
+  "clearPassword": "string",
+  "delivery": {
+    "address": "string",
+    "billingAddress": true,
+    "bilstateOther": "string",
+    "city": "string",
+    "company": "string",
+    "country": "string",
+    "firstName": "string",
+    "lastName": "string",
+    "latitude": "string",
+    "longitude": "string",
+    "phone": "string",
+    "postalCode": "string",
+    "stateProvince": "string",
+    "zone": "string"
+  },
+  "emailAddress": "string",
+  "encodedPassword": "string",
+  "firstName": "string",
+  "gender": "string",
+  "groups": [
+    {
+      "name": "string"
+    }
+  ],
+  "id": 0,
+  "language": "string",
+  "lastName": "string",
+  "provider": "string",
+  "rating": 0,
+  "ratingCount": 0,
+  "storeCode": "string",
+  "userName": "string",
+  "password": "string"
+  
+}

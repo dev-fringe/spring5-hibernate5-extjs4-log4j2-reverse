@@ -1,0 +1,128 @@
+{
+  "attributes": [
+    {
+      "attributeDefault": true,
+      "code": "string",
+      "id": 0,
+      "option": {
+        "code": "string",
+        "id": 0,
+        "type": "string"
+      },
+      "optionValue": {
+        "code": "string",
+        "defaultValue": true,
+        "description": "string",
+        "id": 0,
+        "sortOrder": 0
+      },
+      "productAttributePrice": 0,
+      "productAttributeWeight": 0,
+      "sortOrder": 0,
+      "type": "string"
+    }
+  ],
+  "available": true,
+  "categories": [
+    {
+      "code": "string",
+      "id": 0
+    }
+  ],
+  "condition": "NEW",
+  "dateAvailable": "string",
+  "descriptions": [
+    {
+      "description": "string",
+      "friendlyUrl": "string",
+      "highlights": "string",
+      "id": 0,
+      "keyWords": "string",
+      "language": "string",
+      "metaDescription": "string",
+      "name": "string",
+      "title": "string"
+    }
+  ],
+  "id": 0,
+  "images": [
+    {
+      "bytes": "string",
+      "contentType": "string",
+      "defaultImage": true,
+      "files": [
+        null
+      ],
+      "id": 0,
+      "imageType": 0,
+      "imageUrl": "string",
+      "name": "string",
+      "path": "string"
+    }
+  ],
+  "manufacturer": {
+    "code": "string",
+    "id": 0
+  },
+  "owner": {
+    "address": {
+      "address": "string",
+      "billingAddress": true,
+      "bilstateOther": "string",
+      "city": "string",
+      "company": "string",
+      "country": "string",
+      "firstName": "string",
+      "lastName": "string",
+      "latitude": "string",
+      "longitude": "string",
+      "phone": "string",
+      "postalCode": "string",
+      "stateProvince": "string",
+      "zone": "string"
+    },
+    "emailAddress": "string",
+    "firstName": "string",
+    "id": 0,
+    "lastName": "string"
+  },
+  "preOrder": true,
+  "price": 0,
+  "productHeight": 0,
+  "productIsFree": true,
+  "productLength": 0,
+  "productPrices": [
+    {
+      "code": "string",
+      "defaultPrice": true,
+      "discountEndDate": "string",
+      "discountStartDate": "string",
+      "discounted": true,
+      "discountedPrice": 0,
+      "id": 0,
+      "originalPrice": 0
+    }
+  ],
+  "productShipeable": true,
+  "productVirtual": true,
+  "productWeight": 0,
+  "productWidth": 0,
+  "quantity": 0,
+  "quantityOrderMaximum": 0,
+  "quantityOrderMinimum": 0,
+  "rating": 0,
+  "ratingCount": 0,
+  "refSku": "string",
+  "relatedProducts": [
+    {
+      "id": 0,
+      "relationShipType": "string"
+    }
+  ],
+  "rentalDuration": 0,
+  "rentalPeriod": 0,
+  "rentalStatus": "RENTED",
+  "sku": "string",
+  "sortOrder": 0,
+  "visible": true
+}

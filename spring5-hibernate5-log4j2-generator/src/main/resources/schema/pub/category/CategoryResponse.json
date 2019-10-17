@@ -1,0 +1,25 @@
+[
+	{
+		"id": 1,
+		"code": "11",
+		"sortOrder": 0,
+		"visible": true,
+		"featured": false,
+		"lineage": "1",
+		"depth": 0,
+		"parent": null,
+		"description": {
+			"id": 650,
+			"language": null,
+			"name": "11",
+			"description": "11",
+			"friendlyUrl": "11",
+			"keyWords": "",
+			"highlights": "",
+			"metaDescription": "",
+			"title": ""
+		},
+		"productCount": 0,
+		"children": []
+	}
+]
